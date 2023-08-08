@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashwanth Gowda</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Crafting Lines of Code, One Commit at a Time 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanthgowda07&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanthgowda07" /> </p>
 
