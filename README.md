@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Data Analysis**
 
-- 🤝 I’m looking for help with **App Development**
+- 🤝 I’m looking for help with **AI/ML**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **SQL,Python**
 
 - 📫 How to reach me **yashwanthgowdag96@gmail.com**
 
